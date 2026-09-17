@@ -1,4 +1,3 @@
-markdown
 # Information Security Management System (ISMS) Implementation
 
 **ISO/IEC 27001:2022 & NIST CSF 2.0 — Case Study: Digital Horizons Bank**
