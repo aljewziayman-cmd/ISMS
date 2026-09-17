@@ -95,7 +95,7 @@ The project follows the **Plan–Do–Check–Act (PDCA)** cycle mandated by **I
 | Name | Role |
 |------|------|
 | Eng. Aiman Alansi | Supervisor & Engineering |
-| Aiman Al-Jouzi | Team Member |
+| Al-Zubair Al-Aji | Team Member |
 | Ali Al-Sahooli | Team Member |
 | Ayman Aljewzi | Team Member |
 | Osama Al-Sarori | Team Member |
