@@ -1,3 +1,4 @@
+markdown
 # Information Security Management System (ISMS) Implementation
 
 **ISO/IEC 27001:2022 & NIST CSF 2.0 — Case Study: Digital Horizons Bank**
@@ -99,7 +100,7 @@ The project follows the **Plan–Do–Check–Act (PDCA)** cycle mandated by **I
 | Eng. Aiman Alansi | Supervisor & Engineering |
 | Aiman Al-Jouzi | Team Member |
 | Ali Al-Sahooli | Team Member |
-| Ayman Aljewzi| Team Member |
+| Ayman Aljewzi | Team Member |
 | Osama Al-Sarori | Team Member |
 | Salah Al-Nahari | Team Member |
 
