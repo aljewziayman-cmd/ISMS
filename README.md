@@ -26,31 +26,30 @@ The project was developed as a graduation/course project for the Information Sec
 
 ## 🗂️ Repository Structure
 ├── 01_Word_Documents/
-│ ├── 01_InfoSec_Context_Reqts_Scope.docx
-│ ├── 02_Information_Security_Policy.docx
-│ ├── 03_ISMS_Objectives.docx
-│ ├── 04_Risk_Assessment_Methodology.docx
-│ ├── 05_Risk_Appetite_Statement.docx
-│ ├── 06_Risk_Assessment_and_Treatment_Process.docx
-│ ├── 07_Risk_Assessment_Report.docx
-│ ├── 08_Incident_Response_Procedure.docx
-│ ├── 09_BCP_Disaster_Recovery_Plan.docx
-│ ├── 10_Internal_Audit_Report.docx
-│ ├── 11_Acceptable_Use_Policy.docx
-│ ├── 12_SOP_Template_Backup_Management.docx
-│ ├── 13_Horizons_Bank.docx
-│ ├── 14_Horizons_Bank_2.docx
-│ └── 15_Performance_Report.docx
+│   ├── 01_InfoSec_Context_Reqts_Scope.docx
+│   ├── 02_Information_Security_Policy.docx
+│   ├── 03_ISMS_Objectives.docx
+│   ├── 04_Risk_Assessment_Methodology.docx
+│   ├── 05_Risk_Appetite_Statement.docx
+│   ├── 06_Risk_Assessment_and_Treatment_Process.docx
+│   ├── 07_Risk_Assessment_Report.docx
+│   ├── 08_Incident_Response_Procedure.docx
+│   ├── 09_BCP_Disaster_Recovery_Plan.docx
+│   ├── 10_Internal_Audit_Report.docx
+│   ├── 11_Acceptable_Use_Policy.docx
+│   ├── 12_SOP_Template_Backup_Management.docx
+│   ├── 13_Horizons_Bank.docx
+│   ├── 14_Horizons_Bank_2.docx
+│   └── 15_Performance_Report.docx
 │
 ├── 02_Excel_Files/
-│ ├── 01_Information_Asset_Inventory.xlsx
-│ ├── 02_Asset_Based_Risk_Register.xlsx
-│ ├── 03_Statement_of_Applicability_SoA.xlsx
-│ └── 04_Secure_Configuration_Baseline.xlsx
+│   ├── 01_Information_Asset_Inventory.xlsx
+│   ├── 02_Asset_Based_Risk_Register.xlsx
+│   ├── 03_Statement_of_Applicability_SoA.xlsx
+│   └── 04_Secure_Configuration_Baseline.xlsx
 │
 └── 03_Presentation/
-└── ISMS_Project_Presentation.pptx
-
+    └── ISMS_Project_Presentation.pptx
 text
 
 ---
